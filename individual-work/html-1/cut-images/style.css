@@ -1,0 +1,12 @@
+.flexbox {
+    display: flex;
+    flex-wrap:wrap;
+    margin: 250px;
+    width:1440px;   
+}
+
+.flex-item {
+    height:250px;
+    width:33.3%;
+    object-fit:cover;
+}
